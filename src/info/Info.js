@@ -103,53 +103,9 @@ export const info = {
             live: "https://www.youtube.com/watch?si=_H_rV2QehC5sVg8a&v=Ti_aAJSb9oQ&feature=youtu.be", 
             source: "https://github.com/AzamSiddiq/JobRem",
             image: job
-        }, 
-        {
-            title: "Travel Safe: Empowering Women's Journey with Visual Protection",
-            live: "https://www.youtube.com/watch?si=_H_rV2QehC5sVg8a&v=Ti_aAJSb9oQ&feature=youtu.be", 
-            source: "https://github.com/i-am-SnehaChauhan/travel-safe",
-            // image: travel
-        },
-        {
-            title: "Social Fast: Unleash Your Social Speed",
-            live: "https://www.youtube.com/watch?v=UbQaOaUp0mg",
-            source: "https://github.com/Chhavi007/SocialFast",
-            image: socialFast
-        },
-        {
-            title: "Live Words: Weave language into every word",
-            live: "https://chhavi007.github.io/LiveWords/",
-            source: "https://github.com/paytonjewell",
-            image: liveWord
-        },
-        {
-            title: "Bingo, Sudoku, Tick-Tac-Toe",
-            live: "https://game-by-deepika.vercel.app/",
-            source: "https://github.com/Deepika8383/game",
-            image: game
-        },
-        {
-            title: "Tracker",
-            live: "https://tracker-sigma-three.vercel.app/",
-            source: "https://github.com/Deepika8383/tracker",
-            image: tracker
-        },
-        {
-            title: "HospitEase",
-            live: "https://katalyst-hack-frontend.vercel.app/",
-            source: "https://github.com/Deepika8383/katalystHack_frontend",
-            image: hospitEase
         },
         {
             title: "Digital Id Verification",
-            // live: "https://katalyst-hack-frontend.vercel.app/",
-            //source: "https://github.com/Deepika8383/Zynga_hackthon",
-            image: IdVerification
-        },
-        {
-            title: "Digital Id Verification",
-            live: "https://jain-catering-git-main-deepika-jains-projects.vercel.app/",
-            source: "https://github.com/Deepika8383/Catering-website",
             image: jainCatering
         },
     ]
