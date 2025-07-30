@@ -143,7 +143,7 @@ export const info = {
         {
             title: "Digital Id Verification",
             // live: "https://katalyst-hack-frontend.vercel.app/",
-            source: "https://github.com/Deepika8383/Zynga_hackthon",
+            //source: "https://github.com/Deepika8383/Zynga_hackthon",
             image: IdVerification
         },
         {
