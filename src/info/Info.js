@@ -105,8 +105,15 @@ export const info = {
             image: job
         },
         {
+            title: "Todo",
+            live: "youtube link", 
+            source: "https://github.com/AzamSiddiq/JobRem",
+            image: todo
+        },
+        {
             title: "Digital Id Verification",
-            image: jainCatering
+            source: "https://github.com/AzamSiddiq/ID_Verification",
+            image: IdVerification
         },
     ]
 }
