@@ -1,12 +1,7 @@
 import self from "../img/self.png"
-import socialFast from "../img/socialFast.png"
-import liveWord from "../img/liveWord.png"
-import game from "../img/game.png"
-import tracker from "../img/tracker.png"
-import hospitEase from "../img/hospitEase.png"
 import IdVerification from "../img/IdVerification.png"
-import jainCatering from "../img/jainCatering.png"
 import job from "../img/job.png"
+import todo from "../img/todo.png"
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
