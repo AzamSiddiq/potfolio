@@ -100,7 +100,7 @@ export const info = {
     portfolio: [
         {
             title: "JobRem: project to maintain track of applied jobs",
-            live: "https://www.youtube.com/watch?si=_H_rV2QehC5sVg8a&v=Ti_aAJSb9oQ&feature=youtu.be", 
+            live: "youtube link", 
             source: "https://github.com/AzamSiddiq/JobRem",
             image: job
         },
